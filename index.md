@@ -552,7 +552,7 @@ please preview your site before committing, and make sure to run
     <strong>please make sure you install Python version 3.x</strong>
     (e.g., 3.6 is fine).
   </p>
-
+  <!--
   <p>
     We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
     a programming environment that runs in a web browser. For this to work you will need a reasonably
@@ -561,6 +561,14 @@ please preview your site before committing, and make sure to run
     <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
     (some older browsers, including Internet Explorer version 9
     and below, are not).
+  </p>
+  -->
+    <p>
+    We will teach Python using <a href="https://jupyter.org/">Jupyter Lab</a>,
+    a programming IDE that runs in a web browser. For this to work you will need a reasonably
+    up-to-date browser; the latest versions of Chrome, Firefox, and Safari ought to work. 
+    You may try Jupyter Lab by  following the installation instructions in the link above, 
+    or by referencing those in the <a href="https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html"documentation</a>.
   </p>
 
   <div>
