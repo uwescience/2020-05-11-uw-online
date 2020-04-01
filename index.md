@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
                       # Be sure to update the Carpentry type in _config.yml as well.
 venue: "The University of Washington"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "via [Zoom](https://zoom.us/)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "47.606209, -122.332071"          # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -123,8 +123,8 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants must have a laptop/desktop with a
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. The computers should have sound, microphone and preferably a video functionality.  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment%}
